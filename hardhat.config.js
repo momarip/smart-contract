@@ -9,8 +9,8 @@ module.exports = {
   networks: {
     hardhat: {},
     mumbai: {
-      url: "",
-      accounts: [""],
+      url: "Your RPC Node url",
+      accounts: ["Your MetaMask Private key"],
     },
   },
 };
